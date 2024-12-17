@@ -10,7 +10,7 @@ classifiers = [
 
 setup(
     name='faresbasiccalculator',
-    version='0.0.3',
+    version='0.0.4',
     description='A very basic calculator',
     long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
     url='https://github.com/Fares-Muutaa/faresbasiccalculator',
